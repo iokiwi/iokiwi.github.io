@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files '*.*'"
   },
   "author": "",
-  "dependencies": {
-    "rellax": "^1.8.0"
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
   }
 }
