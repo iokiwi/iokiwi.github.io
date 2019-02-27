@@ -30,7 +30,7 @@
 
 .social-links {
     position: relative;
-    width: 100px;
+    width: 200px;
     left: 50%;
     font-size: 26px;
     transform: translateX(-50%);
@@ -38,8 +38,29 @@
 
 .social-links li {
     display: inline-block;
-    width: 33%;
+    width: 25%;
     float: left;
+    text-align: center;
+}
+
+.social-links a {
+    color: grey;
+}
+
+.social-links .fa-twitter:hover {
+    color: #1DA1F2;
+}
+
+.social-links .fa-linkedin-in:hover {
+    color: #0077B5;
+}
+
+.social-links .fa-github:hover {
+    color: #171515;
+}
+
+.social-links .fa-envelope:hover {
+    color: #D12F2E;
 }
 
 .profile-name {
