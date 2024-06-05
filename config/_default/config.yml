@@ -1,0 +1,15 @@
+baseURL: 'https://leif.io/'
+languageCode: en-us
+defaultContentLanguage: en
+enableRobotsTXT: false
+pluralizelisttitles: false
+permalinks:
+  posts: '/blog/:year/:month/:day/:slug/'
+taxonomies:
+  blog: blog
+timeout: 300s
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

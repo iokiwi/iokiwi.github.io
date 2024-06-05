@@ -1,0 +1,20 @@
+languageCode: en
+languageName: English
+weight: 1
+
+params:
+  displayName: EN
+  htmlCode: en
+  rtl: false
+  author:
+    name: Simon Merrick
+    image: img/profile.jpeg
+    links:
+      - linkedin: 'https://linkedin.com/in/simon-merrick'
+      - gitlab: 'https://gitlab.com/simon.merrick.trademe'
+      - github: 'https://github.com/iokiwi'
+      - mastodon: 'https://infosec.exchange/@iokiwi'
+      - twitter: 'https://twitter.com/iokiwi'
+
+title: Simon Merrick
+copyright: Simon Merrick

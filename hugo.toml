@@ -1,0 +1,4 @@
+baseURL = 'https://simonmerrick.com/'
+languageCode = 'en-us'
+title = 'Simon Merrick'
+theme = 'congo'

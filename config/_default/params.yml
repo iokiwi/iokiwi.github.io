@@ -1,0 +1,9 @@
+colorScheme: ocean
+autoSwitchAppearance: true
+homepage:
+  layout: profile
+list:
+  showSummary: false
+enableSearch: true
+footer:
+  showAppearanceSwitcher: true
