@@ -1,12 +1,10 @@
 .DS_Store
 
+.vscode
+
 ### Hugo ###
 # Generated files by hugo
-public/
+public
 
 # Temporary lock file while building
 .hugo_build.lock
-
-# Ruby
-.bundle
-vendor/bundle
