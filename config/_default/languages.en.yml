@@ -11,8 +11,8 @@ params:
     image: img/profile.jpeg
     links:
       - linkedin: 'https://linkedin.com/in/simon-merrick'
-      - gitlab: 'https://gitlab.com/simon.merrick.trademe'
       - github: 'https://github.com/iokiwi'
+      - gitlab: 'https://gitlab.com/simon.merrick.trademe'
       - mastodon: 'https://infosec.exchange/@iokiwi'
       - twitter: 'https://twitter.com/iokiwi'
 
