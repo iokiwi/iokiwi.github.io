@@ -1,7 +1,7 @@
 +++
 title = 'Recommended Conference Talks'
 date = 2024-12-24T22:21:23+13:00
-draft = true
+draft = false
 +++
 
 Tech Leadership / Career Progression

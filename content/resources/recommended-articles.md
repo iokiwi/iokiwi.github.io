@@ -1,8 +1,8 @@
-+++
-title = 'Recommended Articles'
-date = 2024-12-24T22:22:08+13:00
-draft = true
-+++
+---
+title: 'Recommended Articles'
+date: 2024-12-24T22:22:08+13:00
+draft: false
+---
 
  * [A Practitioner's Guide to Wide Events](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/)
  * [The Five Ideals of DevOps](https://itrevolution.com/five-ideals-of-devops/)
