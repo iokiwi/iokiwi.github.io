@@ -1,1 +1,1 @@
-A curation of content that changed my perspective and that I regularly find myself referring others too. Highly recommended consumption for all technology professionals.
+A curation of content that changed my perspective and that I regularly find myself referring others to. Highly recommended consumption for all technology professionals.
