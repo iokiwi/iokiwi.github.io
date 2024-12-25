@@ -1,5 +1,5 @@
 +++
-title = 'Recommended Conference Talks'
+title = 'Conference Talks'
 date = 2024-12-24T22:21:23+13:00
 draft = false
 +++

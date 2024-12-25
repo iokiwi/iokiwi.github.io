@@ -12,9 +12,10 @@ params:
     links:
       - linkedin: 'https://linkedin.com/in/simon-merrick'
       - github: 'https://github.com/iokiwi'
-      - gitlab: 'https://gitlab.com/simon.merrick.trademe'
+      # - gitlab: 'https://gitlab.com/simon.merrick.trademe'
+      - bluesky: 'https://bsky.app/profile/iokiwi.bsky.social'
       - mastodon: 'https://infosec.exchange/@iokiwi'
-      - twitter: 'https://twitter.com/iokiwi'
+      # - x-twitter: 'https://x.com/iokiwi'
 
 title: Simon Merrick
 copyright: Simon Merrick

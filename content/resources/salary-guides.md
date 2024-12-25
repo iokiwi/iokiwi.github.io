@@ -8,7 +8,7 @@ How do you know what salary you should expect for either your current job or a j
 
 A good way to go is to find salary review guides and industry reports from recruitment agencies and job listing platforms which, for the small cost of filling in a short lead collection form, provide a macro view of industry and salary trends.
 
-The ones I use regularly are:
+The ones I regularly refer to are:
 
 * Talent International - https://www.betterworldofwork.io/more-than-money/search-salaries (No contact details needed)
 * Hays Salary Guide - https://www.hays.net.nz/salary-guide
@@ -25,13 +25,13 @@ These are additional sites with salary information which I have not used to the 
 
   <!-- * For remote roles companies will often pay somewhere in between the Market Rate for the city where the role is based and the city where you will actually be doing the work from. Domestically, the rate is normally fairly flat between cities but if you land a remote role with an Australian or US based company they will sometimes offer an 'NZ rate' rate which is lower than the US/AUS Market Rates to account for foriegn exchange rates and also -->
 
-## Glassdoor
+## A note on Glassdoor
 
 [Glassdoor](https://www.glassdoor.co.nz/) is a platform for anonymously posting your salary and rating and reviewing of employer. You may be able to use some basic features without providing any of your own information but eventually you will be asked to create an account and contribute your own salary data to keep using the platform. Fair is fair I guess.
 
 The platform is supposed to keep your personal information and posts anonymous from employers and other users of the platform but be warned that [Glassdoor may deanonymise users without their consent](https://restoreprivacy.com/employer-review-site-glassdoor-deanonymized-users-without-consent/)
 
-Apply common sense and don't post anything to the internet you wouldn't want your mother (or your current or future employer) to read.
+Apply common sense and don't post anything you wouldn't want your mother (or your current or future employer) to read.
 
 There's a lot more to say about Glass Door but I'll leave that for another post.
 
@@ -78,8 +78,6 @@ Also condsider that information you provide may help people uniquely identify yo
  * You refer
 
 you may deanonymise yourself to your peers or employers - especially if you work for a small company or reference specific grievances that would make it easy for someone to identify you as an involved partys-without-consent/
-
-
 
 provides both salary data and workplace ratings and reviews. While your personal information is not displayed on the website, 
 

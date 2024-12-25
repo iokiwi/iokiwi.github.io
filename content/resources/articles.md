@@ -1,5 +1,5 @@
 ---
-title: 'Recommended Articles'
+title: 'Articles'
 date: 2024-12-24T22:22:08+13:00
 draft: false
 ---
