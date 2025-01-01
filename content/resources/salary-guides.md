@@ -10,18 +10,21 @@ A good way to go is to find salary review guides and industry reports from recru
 
 The ones I regularly refer to are:
 
-* Talent International - https://www.betterworldofwork.io/more-than-money/search-salaries (No contact details needed)
-* Hays Salary Guide - https://www.hays.net.nz/salary-guide
-  * Latest report at time of writing: [Hays Salary Guide IT Edition FY23/24](https://www.hays.com.au/documents/276732/1102429/Hays+Salary+Guide+IT+Edition+FY2324.pdf)
-* Absolute IT Industry Reports - https://absoluteit.co.nz/industry-reports/
-  * Latest report at time of writing: [Abosolut IT Job Market & Salary Report 2024](https://absoluteit.co.nz/wp-content/uploads/2024/04/Absolute-IT-IT-Job-Market-Salary-Report-2024.pdf)
+* [Talent International Salary Search](https://www.betterworldofwork.io/more-than-money/search-salaries)
+* [Hays Salary Guide](https://www.hays.net.nz/salary-guide)
+  * [Hays Salary Guide FY24/25](https://www.hays.com.au/documents/276732/1102429/Hays+Salary+Guide+FY24-25.pdf)
+  * [Hays Salary Guide IT Edition FY23/24](https://www.hays.com.au/documents/276732/1102429/Hays+Salary+Guide+IT+Edition+FY2324.pdf)
+* [Absolute IT Industry Reports](https://absoluteit.co.nz/industry-reports/)
+  * [Abosolut IT Job Market & Salary Report 2024](https://absoluteit.co.nz/wp-content/uploads/2024/04/Absolute-IT-IT-Job-Market-Salary-Report-2024.pdf)
 
 These are additional sites with salary information which I have not used to the same extent but may be worth looking at
 
-* PayScale https://www.payscale.com/research/NZ/
-* Seek https://www.seek.co.nz/career-advice/explore-salaries
-* Indeed https://nz.indeed.com/career/salaries
-* Trade Me https://www.trademe.co.nz/a/jobs/salary-guide
+* [Seek - Compare your Salary with Market Trends](https://www.seek.co.nz/career-advice/explore-salaries)
+* [Hays Salary Checker](https://www.hays.net.nz/salary-guide/salary-checker)
+* [PayScale](https://www.payscale.com/research/NZ/)
+
+
+<!-- * [Trade Me Salary guide](https://www.trademe.co.nz/a/jobs/salary-guide) -->
 
   <!-- * For remote roles companies will often pay somewhere in between the Market Rate for the city where the role is based and the city where you will actually be doing the work from. Domestically, the rate is normally fairly flat between cities but if you land a remote role with an Australian or US based company they will sometimes offer an 'NZ rate' rate which is lower than the US/AUS Market Rates to account for foriegn exchange rates and also -->
 
@@ -33,9 +36,9 @@ The platform is supposed to keep your personal information and posts anonymous f
 
 Apply common sense and don't post anything you wouldn't want your mother (or your current or future employer) to read.
 
-There's a lot more to say about Glass Door but I'll leave that for another post.
+There's a lot more to say about Glassdoor but I'll leave that for another post.
 
-## Some things to consider
+## Some other things to consider
 
   * Different reports break down salary ranges and data in different ways such as the summary statistics they use or breaking down by experience level, or include different roles. For this reason it's good to cross reference several reports to get a bigger picture.
 
