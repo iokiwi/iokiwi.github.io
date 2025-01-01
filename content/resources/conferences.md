@@ -10,7 +10,7 @@ Local/NZ conferences that are on my radar.
 
 |Event|Location|Start Date|
 |---|---|---|
-|[Rust Forge 2025]()|Wellington|August 27|
+|[Rust Forge 2025](https://rustforgeconf.com)|Wellington|August 27|
 |[Dev Day Aotearoa](https://www.devday.co.nz/)|Auckland|September 11|
 |[CHCon 2025](https://2025.chcon.nz/)|Christchurch|October 30|
 |[Kawaiicon](https://kawaiicon.org/)|Wellington|November 6|
